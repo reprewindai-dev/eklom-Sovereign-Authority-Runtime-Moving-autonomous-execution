@@ -1,0 +1,6 @@
+{
+  "name": "Veklom Agent Authority Runtime",
+  "description": "Deterministic sovereign agent authority control plane with pre-execution policy compilers, ExecutionIdentityV1 checkpoints, and x402 machine micropayments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
